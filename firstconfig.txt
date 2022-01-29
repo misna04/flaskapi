@@ -1,0 +1,10 @@
+create an environtment
+mkdir myproject
+cd myproject
+py -3 -m venv venv
+
+activate the environtment
+venv\Scripts\activate
+
+install flask
+pip install Flask
